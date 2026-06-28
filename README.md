@@ -32,7 +32,34 @@ I enjoy transforming ideas into production-ready applications while continuously
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aashish_rauniyar_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aashish1r/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@aashish7648) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/aashish_1r) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/reck98_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aashish7648@gmail.com) 
 
-# 🏆 Competitive Programming <p align="center"> | Platform | Username | Current Rating | Max Rating | Profile | |:---------|:--------:|:--------------:|:----------:|:--------| | 🔵 **Codeforces** | **reck98** | **1669 (Expert)** | **1677** | <a href="https://codeforces.com/profile/reck98">View ↗</a> | | 🟤 **CodeChef** | **reck_98** | **★★★★** | — | <a href="https://www.codechef.com/users/reck_98">View ↗</a> | | 🟡 **LeetCode** | **reck98** | **Contest Participant** | — | <a href="https://leetcode.com/u/reck98/">View ↗</a> | </p> ### 📈 Highlights - 🟦 **Codeforces Expert** *(Max Rating: **1677**)* - 💻 Active across **Codeforces**, **CodeChef**, and **LeetCode** - 🧠 Strong foundation in **Data Structures & Algorithms** - 🚀 Regular participant in programming contests and interview-style problem solving --- <p align="center"> <a href="https://codeforces.com/profile/reck98"> <img src="https://codeforces-readme-stats.vercel.app/api/card?username=reck98" width="49%" /> </a> <a href="https://leetcode.com/u/reck98/"> <img src="https://leetcard.jacoblin.cool/reck98?theme=dark&font=baloo&ext=contest" width="49%" /> </a> </p>
+
+# 🏆 Competitive Programming
+
+Passionate about solving algorithmic problems and participating in programming contests. I regularly practice Data Structures & Algorithms and competitive programming across multiple platforms.
+
+| Platform | Username | Current Rating | Peak Rating | Profile |
+|:---------|:--------:|:--------------:|:-----------:|:--------|
+| 🔵 **Codeforces** | **reck98** | **1669 (Expert)** | **1677 (Expert)** | [View ↗](https://codeforces.com/profile/reck98) |
+| 🟤 **CodeChef** | **reck_98** | **1712 (3★)** | **1757 (3★)** | [View ↗](https://www.codechef.com/users/reck_98) |
+| 🟡 **LeetCode** | **reck98** | **1852 (Knight)** | **1852 (Knight)** | [View ↗](https://leetcode.com/u/reck98/) |
+
+### 📈 Highlights
+
+- 🔹 **Codeforces Expert** with a peak rating of **1677**
+- 🔹 **LeetCode Knight** with a contest rating of **1852**
+- 🔹 **3★ CodeChef** with a peak rating of **1757**
+- 🔹 Strong foundation in **Data Structures & Algorithms**, **Graphs**, **Dynamic Programming**, **Trees**, and **Binary Search**
+- 🔹 Regular participant in programming contests and interview-oriented problem solving
+
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=reck98" width="49%" />
+  <img src="https://leetcard.jacoblin.cool/reck98?theme=dark&font=baloo&ext=contest" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=reck98&theme=onedark&no-frame=true&row=1&column=6" />
+</p>
+
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
