@@ -43,13 +43,15 @@ Passionate about solving algorithmic problems and participating in programming c
 | 🟤 **CodeChef** | **reck_98** | **1712 (3★)** | **1757 (3★)** | [View ↗](https://www.codechef.com/users/reck_98) |
 | 🟡 **LeetCode** | **reck98** | **1852 (Knight)** | **1852 (Knight)** | [View ↗](https://leetcode.com/u/reck98/) |
 
+
 ### 📈 Highlights
 
-- 🔹 **Codeforces Expert** with a peak rating of **1677**
-- 🔹 **LeetCode Knight** with a contest rating of **1852**
-- 🔹 **3★ CodeChef** with a peak rating of **1757**
-- 🔹 Strong foundation in **Data Structures & Algorithms**, **Graphs**, **Dynamic Programming**, **Trees**, and **Binary Search**
-- 🔹 Regular participant in programming contests and interview-oriented problem solving
+- 🏅 Achieved a **Global Rank of 858** in **Codeforces Round 1099 (Div. 2)**
+- 🏅 Achieved a **Global Rank of 58** in **CodeChef Starters 238**
+- 🧠 Strong foundation in **Data Structures & Algorithms**, **Graphs**, **Trees**, **Dynamic Programming**, and **Binary Search**
+- 🚀 Regular participant in competitive programming contests and interview-oriented problem solving
+
+
 
 <p align="center">
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=reck98" width="49%" />
