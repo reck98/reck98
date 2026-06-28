@@ -29,8 +29,17 @@ I enjoy transforming ideas into production-ready applications while continuously
 - Quantitative Developer Roles
 - Open Source Collaboration
 
+
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aashish_rauniyar_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aashish1r/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@aashish7648) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/aashish_1r) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/reck98_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aashish7648@gmail.com) 
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-14B8A6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tinyurl.com/reck98)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aashish_rauniyar_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aashish1r/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@aashish7648)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/aashish_1r)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/reck98_)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aashish7648@gmail.com)
+
 
 
 # 🏆 Competitive Programming
