@@ -1,3 +1,33 @@
+<h1 align="center">Hi 👋, I'm Aashish Kumar</h1>
+
+<h3 align="center">Software Engineer • AI Engineer • Full-Stack Developer • Quantitative Finance Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=700&lines=Software+Engineer;AI+Engineer;Full-Stack+Developer;Building+AI-Powered+Applications;Learning+Distributed+Systems;Quantitative+Finance+Enthusiast" alt="Typing SVG" />
+</p>
+
+I'm an undergraduate student pursuing **B.Tech in Electronics & Communication Engineering** at **IIT (ISM) Dhanbad** with a **CGPA of 9.31**.
+
+I'm passionate about building scalable software, AI-powered applications, and developer tools. My interests span **Full-Stack Development**, **Artificial Intelligence**, **Large Language Models**, **Distributed Systems**, **System Design**, and **Algorithmic Trading**.
+
+I enjoy transforming ideas into production-ready applications while continuously learning modern technologies and software engineering best practices.
+
+---
+
+### 🚀 Current Focus
+
+- Building AI-powered applications and developer tools
+- Developing scalable full-stack web applications
+- Exploring LLMs, AI Agents, and Multi-Agent Systems
+- Learning Distributed Systems and System Design
+- Building algorithmic trading and quantitative finance projects
+
+### 🎯 Open To
+
+- Software Engineering Internships
+- AI / Machine Learning Opportunities
+- Quantitative Developer Roles
+- Open Source Collaboration
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aashish_rauniyar_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aashish1r/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@aashish7648) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/aashish_1r) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/reck98_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aashish7648@gmail.com) 
